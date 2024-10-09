@@ -78,14 +78,14 @@ const Header = ({ handleOpen, handleRemove, openClass }) => {
                                             <li><Link className="color-gray-500" href="/blog-archive-5">Blog Category 5</Link></li>
                                         </ul> */}
                                     </li>
-                                    <li className="has-children"><Link className="color-gray-500" href="#">Події</Link>
+                                    {/* <li className="has-children"><Link className="color-gray-500" href="#">Події</Link>
                                         <ul className="sub-menu two-col">
                                             <li><Link className="color-gray-500" href="/single-sidebar">Blog Single 1</Link></li>
                                             <li><Link className="color-gray-500" href="/single-no-sidebar">Blog Single 2</Link></li>
                                             <li><Link className="color-gray-500" href="/single-center">Blog Single 3</Link></li>
                                         </ul>
-                                    </li>
-                                    <li className="has-children"><Link className="color-gray-500" href="#">Медіа</Link>
+                                    </li> */}
+                                    {/* <li className="has-children"><Link className="color-gray-500" href="#">Медіа</Link>
                                         <ul className="sub-menu two-col">
                                             <li><Link className="color-gray-500" href="/page-about">About</Link></li>
                                             <li><Link className="color-gray-500" href="/page-author">Author posts</Link></li>
@@ -95,7 +95,7 @@ const Header = ({ handleOpen, handleRemove, openClass }) => {
                                             <li><Link className="color-gray-500" href="/page-signup">Signup</Link></li>
                                             <li><Link className="color-gray-500" href="/page-404">Page 404</Link></li>
                                         </ul>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link className="color-gray-500" href="/page-contact">Контакти</Link>
                                     </li>
