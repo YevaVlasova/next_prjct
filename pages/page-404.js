@@ -7,7 +7,7 @@ export default function Page404() {
         <>
             <Head>
                 <title>
-                    Genz - Page not found
+                    АСОЦІАЦІЯ ДІЛОВОГО СПІВРОБІТНИЦТВА УКРАЇНИ ТА ДЕРЖАВ АСЕАН
                 </title>
             </Head>
             <Layout>
@@ -19,7 +19,9 @@ export default function Page404() {
                                     <div className="text-center mb-150 mt-100">
                                         <div className="box-404 row">
                                             <div className="col-lg-6">
-                                                <div className="image-404"><img src="assets/imgs/page/404/404.svg" alt="Genz" /></div>
+                                                <div className="image-404">
+                                                    <img src="assets/imgs/page/404/404.svg" alt="Genz" />
+                                                </div>
                                             </div>
                                             <div className="col-lg-6">
                                                 <div className="info-404 text-start mt-60">

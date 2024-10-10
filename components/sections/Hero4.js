@@ -11,7 +11,7 @@ const Hero4 = () => {
                             <div className="pt-20">
                                 <div className="d-flex flex-column items-center">
                                     <div className="w-full">
-                                        <img src="assets/imgs/page/homepage4/banner.jpg" alt="АСЕАН" />
+                                        <img src="assets/imgs/page/homepage4/1.png" alt="АСЕАН" />
                                     </div>
                                     <div className="banner-info">
                                         {/* <span className="text-sm-bold color-gray-600">

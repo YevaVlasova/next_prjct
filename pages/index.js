@@ -21,8 +21,8 @@ export default function Home4() {
                             <div className="col-xl-1" />
                             <div className="col-xl-10 col-lg-12">
                                 {/* <RecentPosts4 /> */}
-                                {/* <PopularCategories /> */}
-                                {/* <EditorPicked /> */}
+                                <PopularCategories />
+                                <EditorPicked />
                                 {/* <SidebarBottom /> */}
                                 {/* <PartnersLogs /> */}
                             </div>
